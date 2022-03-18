@@ -42,9 +42,9 @@ Application to help you save passwords that you would probably forget.
  
 
 
-# 🔧 How to run
+## 🔧 How to run
 Download this project to your computer or use the git command `git clone` <br/>
-Open the folder stream-data-challenge in your system's shell
+Open the folder savepass-challenge in your system's shell
 Run `$ yarn install` to install the project's modules
 Run `expo start` to start the project
 
